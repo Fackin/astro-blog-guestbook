@@ -1,2 +1,2 @@
-# astro-blog-guestbook
+# 个人博客留言板
 astro + giscus
